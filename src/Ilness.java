@@ -1,4 +1,4 @@
-public class Ilness {
+public abstract class Ilness {
     private String nameIl;
     private String pills;
 
